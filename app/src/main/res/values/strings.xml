@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Survey app</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_courses">CoursesActivity</string>
+    <string name="ok">ok</string>
+    <string name="login_failed">logging failed</string>
+    <string name="error">error</string>
+</resources>
